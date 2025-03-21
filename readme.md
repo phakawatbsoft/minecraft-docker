@@ -1,3 +1,5 @@
+# need to download docker desktop
+
 # to run your server
 `docker-compost up -d`
 
